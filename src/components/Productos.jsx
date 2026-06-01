@@ -3,31 +3,31 @@ const productos = [
     nombre: 'Vela Lavanda & Vainilla',
     descripcion: 'Aroma suave y relajante, ideal para el descanso.',
     precio: '$XXXX',
-    imagen: '/imagenes/vela1.jpeg', // ← reemplazá con tu foto
+    imagen: '/velas-aromaticas/imagenes/vela1.jpeg', // ← reemplazá con tu foto
   },
   {
     nombre: 'Vela Sándalo & Cedro',
     descripcion: 'Notas amaderadas cálidas para ambientes acogedores.',
     precio: '$XXXX',
-    imagen: '/imagenes/vela2.jpeg',
+    imagen: '/velas-aromaticas/imagenes/vela2.jpeg',
   },
   {
     nombre: 'Vela Rosa & Jazmín',
     descripcion: 'Floral y delicada, perfecta para regalar.',
     precio: '$XXXX',
-    imagen: '/imagenes/vela3.jpeg',
+    imagen: '/velas-aromaticas/imagenes/vela3.jpeg',
   },
   {
     nombre: 'Vela Rosa & Jazmín',
     descripcion: 'Floral y delicada, perfecta para regalar.',
     precio: '$XXXX',
-    imagen: '/imagenes/vela4.jpeg',
+    imagen: '/velas-aromaticas/imagenes/vela4.jpeg',
   },
   {
     nombre: 'Vela Rosa & Jazmín',
     descripcion: 'Floral y delicada, perfecta para regalar.',
     precio: '$XXXX',
-    imagen: '/imagenes/vela5.jpeg',
+    imagen: '/velas-aromaticas/imagenes/vela5.jpeg',
   },
 ]
 

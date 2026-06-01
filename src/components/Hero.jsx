@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section id="inicio" style={{
       minHeight: '100vh',
-        background: 'linear-gradient(160deg, #faf6f0cc 0%, #f0e6d3cc 50%, #e8d5b7cc 100%), url(/imagenes/heroVelas.jpeg) center 40%/55% no-repeat',
+        background: 'linear-gradient(160deg, #faf6f0cc 0%, #f0e6d3cc 50%, #e8d5b7cc 100%), url(/velas-aromaticas/imagenes/heroVelas.jpeg) center 40%/55% no-repeat',
       display: 'flex', alignItems: 'center', justifyContent: 'center',
       textAlign: 'center', padding: '120px 24px 80px',
       position: 'relative', overflow: 'hidden'
